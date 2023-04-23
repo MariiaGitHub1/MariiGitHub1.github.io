@@ -1,0 +1,14 @@
+img {
+	width: 50%;
+}
+.centered {
+	align-items: center;
+}
+
+h5 {
+	align-content: center;
+
+}
+.card {
+	margin: 10px;
+}
